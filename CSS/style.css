@@ -1,0 +1,26 @@
+body{
+    font-family: Roboto, sans-serif;
+    color: #2E353D;
+}
+.header{
+    margin-bottom: 90px;
+}
+.phone{
+    color: #2E353D;
+    font-size: 18px;
+    font-weight: bold;
+}
+h1{
+    font-size: 46px;
+    max-width: 500px;
+
+}
+p{
+    
+    font-size: 18px;
+    max-width: 390px;
+}
+.quiz-img{
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(110, 110, 110, 0.3);
+}
